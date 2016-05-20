@@ -16,24 +16,23 @@ Project managers. Most concerned about billing. Might be concerned about control
 
 ## Methodology
 
-Recruiting
-- Target individuals who are potential/likely/existing users of Cloud.gov:
+### Recruiting
+_Target individuals who are potential/likely/existing users of Cloud.gov_
 	- Government employees
 	- Developers or PM’s
 	- Experience with Heroku/similar products OR
 		- (maybe move to higher level branding) Short to medium term desire to move digital services to the cloud
 
-Also maybe:
-	- 1 or 2 developers who are not using Cloud services.
-		- What do you expect to be better using a Cloud service?
+_For consideration: Developers who are not currently using Cloud services_
+	- What do you expect to gain from moving to a Cloud service?
 
-## Stakeholder interviews
+### Stakeholder interviews
 
-### A) Existing Heroku/similar developers
+#### A) Existing Heroku/similar developers
 
 5-6 interviews. This user group will be our focus.
 
-#### Questions (Scope to 15-20m)
+##### Questions (Scope to 15-20m)
 
 - Do you currently use a GUI to manage your applications? (Maybe insert into screener)
 	- If so, how often?
@@ -54,7 +53,7 @@ Also maybe:
 - What would you need to do?
 - What are some common tasks 
 
-#### Visual inquiry
+##### Visual inquiry
 
 _Put current Cloud.gov in front of user_
 
@@ -78,17 +77,17 @@ _Put Heroku in front of user_
 - What would you use here?
 - What is missing?
 
-### B) Project managers
+#### B) Project managers
 
 2-3 interivews
 
-#### Questions
+##### Questions
 
 - What information do you need about your cloud service?
 - How often do you access your cloud service’s GUI
 - What kind of things do you typically ask the developers to do?
 
-#### Schedule
+### Schedule
 
 - 5/19-22 Contact users to set up interviews
  	-Fous on devs, some PMs
