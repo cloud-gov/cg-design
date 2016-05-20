@@ -88,4 +88,9 @@ _Put Heroku in front of user_
 -How often do you access your cloud service’s GUI
 -What kind of things do you typically ask the developers to do?
 
-
+#### Schedule
+
+- 5/19-22 Contact users to set up interviews
+ 	-Fous on devs, some PMs
+- 5/24-27 Conduct interviews
+- 5/27 Research synthesis & design recommendations
