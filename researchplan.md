@@ -17,15 +17,15 @@ Project managers. Most concerned about billing. Might be concerned about control
 ## Methodology
 
 Recruiting
--Target individuals who are potential/likely/existing users of Cloud.gov:
-	-Government employees
-	-Developers or PM’s
-	-Experience with Heroku/similar products OR
-		-(maybe move to higher level branding) Short to medium term desire to move digital services to the cloud
+- Target individuals who are potential/likely/existing users of Cloud.gov:
+	- Government employees
+	- Developers or PM’s
+	- Experience with Heroku/similar products OR
+		- (maybe move to higher level branding) Short to medium term desire to move digital services to the cloud
 
 Also maybe:
-	-1 or 2 developers who are not using Cloud services.
-		-What do you expect to be better using a Cloud service?
+	- 1 or 2 developers who are not using Cloud services.
+		- What do you expect to be better using a Cloud service?
 
 ## Stakeholder interviews
 
@@ -35,48 +35,48 @@ Also maybe:
 
 #### Questions (Scope to 15-20m)
 
--Do you currently use a GUI to manage your applications? (Maybe insert into screener)
-	-If so, how often?
+- Do you currently use a GUI to manage your applications? (Maybe insert into screener)
+	- If so, how often?
 
--Why are you interested in using a service like Cloud.gov?
--What are the most important factors in your decision on using a service like Cloud.gov?
--What do you do in your day-to-day work on your applications?
--How many apps would you typically have running in an instance?
+- Why are you interested in using a service like Cloud.gov?
+- What are the most important factors in your decision on using a service like Cloud.gov?
+- What do you do in your day-to-day work on your applications?
+- How many apps would you typically have running in an instance?
 
--In what sort of situations would you use a dashboard?
--What is your comfort level with the command line?
--Are there any tasks that might be easier if you had a GUI to do them?
+- In what sort of situations would you use a dashboard?
+- What is your comfort level with the command line?
+- Are there any tasks that might be easier if you had a GUI to do them?
 
--At what point of the process do you pay attention to security?
--At what point of the process do you pay attention to compliance?
+- At what point of the process do you pay attention to security?
+- At what point of the process do you pay attention to compliance?
 
--For a cloud-hosting service, what information would you most need from a dashboard?
--What would you need to do?
--What are some common tasks 
+- For a cloud-hosting service, what information would you most need from a dashboard?
+- What would you need to do?
+- What are some common tasks 
 
 #### Visual inquiry
 
 _Put current Cloud.gov in front of user_
 
--Ask user to narrate what they see on the page.
-	-Observe what appears to get their attention the most.
-		-Why?
--Ask user to interact with the page as they would if it were live.
--Observe where they click.
--Why?
--What would you use here?
--What is missing?
+- Ask user to narrate what they see on the page.
+	- Observe what appears to get their attention the most.
+		- Why?
+- Ask user to interact with the page as they would if it were live.
+- Observe where they click.
+- Why?
+- What would you use here?
+- What is missing?
 
 _Put Heroku in front of user_
 
--Ask user to narrate what they see on the page.
-	-Observe what appears to get their attention the most.
-		-Why?
--Ask user to interact with the page as they would if it were live.
--Observe where they click.
--Why?
--What would you use here?
--What is missing?
+- Ask user to narrate what they see on the page.
+	- Observe what appears to get their attention the most.
+		- Why?
+- Ask user to interact with the page as they would if it were live.
+- Observe where they click.
+- Why?
+- What would you use here?
+- What is missing?
 
 ### B) Project managers
 
@@ -84,9 +84,9 @@ _Put Heroku in front of user_
 
 #### Questions
 
--What information do you need about your cloud service?
--How often do you access your cloud service’s GUI
--What kind of things do you typically ask the developers to do?
+- What information do you need about your cloud service?
+- How often do you access your cloud service’s GUI
+- What kind of things do you typically ask the developers to do?
 
 #### Schedule
 
