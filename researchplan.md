@@ -42,13 +42,18 @@ _For consideration: Developers who are not currently using Cloud services_
 
 --
 
-- Why are you interested in using a service like Cloud.gov?
-- What are the most important factors in your decision on using a service like Cloud.gov?
+- What do you use Cloud.gov for?
 - What do you do in your day-to-day work on your applications?
-- How many apps would you typically have running in an instance?
-
 - Do you currently use a GUI to manage your applications? (Maybe insert into screener)
 	- If so, how often?
+- For a cloud-hosting service, what information would you most need from a dashboard?
+- What would you need to do?
+- What are some common tasks
+
+--
+
+- What are the most important factors in your decision on using a service like Cloud.gov?
+- How many apps would you typically have running in an instance?
 
 - In what sort of situations would you use a dashboard?
 - What is your comfort level with the command line?
@@ -57,9 +62,6 @@ _For consideration: Developers who are not currently using Cloud services_
 - At what point of the process do you pay attention to security?
 - At what point of the process do you pay attention to compliance?
 
-- For a cloud-hosting service, what information would you most need from a dashboard?
-- What would you need to do?
-- What are some common tasks
 
 ##### Visual inquiry
 
