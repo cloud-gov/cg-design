@@ -17,6 +17,7 @@ Project managers. Most concerned about billing. Might be concerned about control
 ## Methodology
 
 ### Recruiting
+
 _Target individuals who are potential/likely/existing users of Cloud.gov_
 	- Government employees
 	- Developers or PM’s
@@ -34,13 +35,20 @@ _For consideration: Developers who are not currently using Cloud services_
 
 ##### Questions (Scope to 15-20m)
 
-- Do you currently use a GUI to manage your applications? (Maybe insert into screener)
-	- If so, how often?
+- What problems are you trying to solve when you use a dashboard?
+	- (How do you use these tools)
+	- Follow with comp if possible. Would this solve your problem?
+	- Why?
+
+--
 
 - Why are you interested in using a service like Cloud.gov?
 - What are the most important factors in your decision on using a service like Cloud.gov?
 - What do you do in your day-to-day work on your applications?
 - How many apps would you typically have running in an instance?
+
+- Do you currently use a GUI to manage your applications? (Maybe insert into screener)
+	- If so, how often?
 
 - In what sort of situations would you use a dashboard?
 - What is your comfort level with the command line?
@@ -51,7 +59,7 @@ _For consideration: Developers who are not currently using Cloud services_
 
 - For a cloud-hosting service, what information would you most need from a dashboard?
 - What would you need to do?
-- What are some common tasks 
+- What are some common tasks
 
 ##### Visual inquiry
 
