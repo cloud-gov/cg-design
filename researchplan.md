@@ -16,76 +16,90 @@ Project managers. Most concerned about billing. Might be concerned about control
 
 ## Methodology
 
-Recruiting
--Target individuals who are potential/likely/existing users of Cloud.gov:
-	-Government employees
-	-Developers or PM’s
-	-Experience with Heroku/similar products OR
-		-(maybe move to higher level branding) Short to medium term desire to move digital services to the cloud
+### Recruiting
 
-Also maybe:
-	-1 or 2 developers who are not using Cloud services.
-		-What do you expect to be better using a Cloud service?
+_Target individuals who are potential/likely/existing users of Cloud.gov_
+	- Government employees
+	- Developers or PM’s
+	- Experience with Heroku/similar products OR
+		- (maybe move to higher level branding) Short to medium term desire to move digital services to the cloud
 
-## Stakeholder interviews
+_For consideration: Developers who are not currently using Cloud services_
+	- What do you expect to gain from moving to a Cloud service?
 
-### A) Existing Heroku/similar developers
+### Stakeholder interviews
+
+#### A) Existing Heroku/similar developers
 
 5-6 interviews. This user group will be our focus.
 
-#### Questions (Scope to 15-20m)
+##### Questions (Scope to 15-20m)
 
--Do you currently use a GUI to manage your applications? (Maybe insert into screener)
-	-If so, how often?
+- What problems are you trying to solve when you use a dashboard?
+	- (How do you use these tools)
+	- Follow with comp if possible. Would this solve your problem?
+	- Why?
 
--Why are you interested in using a service like Cloud.gov?
--What are the most important factors in your decision on using a service like Cloud.gov?
--What do you do in your day-to-day work on your applications?
--How many apps would you typically have running in an instance?
+--
 
--In what sort of situations would you use a dashboard?
--What is your comfort level with the command line?
--Are there any tasks that might be easier if you had a GUI to do them?
+- What do you use Cloud.gov for?
+- What do you do in your day-to-day work on your applications?
+- Do you currently use a GUI to manage your applications? (Maybe insert into screener)
+	- If so, how often?
+- For a cloud-hosting service, what information would you most need from a dashboard?
+- What would you need to do?
+- What are some common tasks
 
--At what point of the process do you pay attention to security?
--At what point of the process do you pay attention to compliance?
+--
 
--For a cloud-hosting service, what information would you most need from a dashboard?
--What would you need to do?
--What are some common tasks 
+- What are the most important factors in your decision on using a service like Cloud.gov?
+- How many apps would you typically have running in an instance?
 
-#### Visual inquiry
+- In what sort of situations would you use a dashboard?
+- What is your comfort level with the command line?
+- Are there any tasks that might be easier if you had a GUI to do them?
+
+- At what point of the process do you pay attention to security?
+- At what point of the process do you pay attention to compliance?
+
+
+##### Visual inquiry
 
 _Put current Cloud.gov in front of user_
 
--Ask user to narrate what they see on the page.
-	-Observe what appears to get their attention the most.
-		-Why?
--Ask user to interact with the page as they would if it were live.
--Observe where they click.
--Why?
--What would you use here?
--What is missing?
+- Ask user to narrate what they see on the page.
+	- Observe what appears to get their attention the most.
+		- Why?
+- Ask user to interact with the page as they would if it were live.
+- Observe where they click.
+- Why?
+- What would you use here?
+- What is missing?
 
 _Put Heroku in front of user_
 
--Ask user to narrate what they see on the page.
-	-Observe what appears to get their attention the most.
-		-Why?
--Ask user to interact with the page as they would if it were live.
--Observe where they click.
--Why?
--What would you use here?
--What is missing?
+- Ask user to narrate what they see on the page.
+	- Observe what appears to get their attention the most.
+		- Why?
+- Ask user to interact with the page as they would if it were live.
+- Observe where they click.
+- Why?
+- What would you use here?
+- What is missing?
 
-### B) Project managers
+#### B) Project managers
 
 2-3 interivews
 
-#### Questions
+##### Questions
 
--What information do you need about your cloud service?
--How often do you access your cloud service’s GUI
--What kind of things do you typically ask the developers to do?
+- What information do you need about your cloud service?
+- How often do you access your cloud service’s GUI
+- What kind of things do you typically ask the developers to do?
 
-
+### Schedule
+
+- 5/19-22 Contact users to set up interviews
+ 	-Fous on devs, some PMs
+- 5/24-27 Conduct interviews
+- 5/27 Research synthesis & design recommendations
