@@ -1,6 +1,4 @@
-## A few parts of this project are not in the public domain
-
-The 18Franklin font files in `18Franklin` and `Sketch/fonts` are a fork of [Libre Franklin](https://github.com/impallari/Libre-Franklin), licensed under the [SIL Open Font License v1.1](http://scripts.sil.org/OFL), and copyright [Impallari Type](http://www.impallari.com/). We adapted this font using the [FontSquirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator).
+## Part of this project is not in the public domain
 
 The Roboto Mono font files in `Sketch/fonts` are from [Roboto](https://github.com/google/roboto) by Google, licensed under [Apache v2.0](https://github.com/google/roboto/blob/master/LICENSE).
 
