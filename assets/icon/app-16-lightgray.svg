@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/app-16-lightgray</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="16" rx="2"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16" height="16" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="-blocks/icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/app-small--disabled">
+            <g id="icon/app-small">
+                <g id="Group-7">
+                    <use id="Rectangle-442" stroke="#D3D3D3" mask="url(#mask-2)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-1"></use>
+                    <polygon id="Polygon-46" fill="#D3D3D3" points="8 3 12.330127 5.5 12.330127 10.5 8 13 3.66987298 10.5 3.66987298 5.5"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
